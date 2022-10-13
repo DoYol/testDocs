@@ -17,7 +17,7 @@ hero:
 
 #featured articles
 features:
-  - title: About Sphere
+  - title: Aboutttt Sphere
     icon: 🖖
     link: /guide/gettingstarted
     details: Sphere is the IoT connectivity service management platform that steamlines your IoT operations and supercharge your productivity
