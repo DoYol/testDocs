@@ -15,7 +15,7 @@ export default {
     lastUpdatedText: 'Updated Date',
     editLink: {
       // git在线编辑链接
-      pattern: 'https://github.com/links-field/cubepress/edit/main/docs/:path',
+      pattern: 'https://github.com/DoYol/testDocs/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     footer: {
@@ -29,7 +29,7 @@ export default {
 
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/DoYol/docs' },
+      { icon: 'github', link: 'https://github.com/DoYol/testDocs' },
     ],
     sidebar: [
       {
