@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t}from"./app.b21c083b.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"org/manage.md","lastUpdated":1665655003000}'),r={name:"org/manage.md"};function o(n,s,c,p,d,m){return t(),a("div")}const f=e(r,[["render",o]]);export{i as __pageData,f as default};

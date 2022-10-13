@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as s}from"./app.b21c083b.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/simstatus.md","lastUpdated":1665655003000}'),a={name:"guide/simstatus.md"};function r(o,c,n,i,d,p){return s(),e("div")}const u=t(a,[["render",r]]);export{_ as __pageData,u as default};
