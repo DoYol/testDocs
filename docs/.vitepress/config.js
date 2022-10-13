@@ -1,7 +1,7 @@
 export default {
   //description meta tag for the site
   title: 'Sphere Press',
-  base: '/docs/',
+  base: '/testDocs/',
   lang: 'en-US',
   description: 'IOT Sphere Documentation',
   lastUpdated: true,
