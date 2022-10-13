@@ -23,4 +23,4 @@ git commit -m 'deploy'
 git push -f git@github.com:DoYol/testDocs.git master:gh-pages
 
 cd -
-rm -rf docs/.vitepress/dist
+# rm -rf docs/.vitepress/dist
