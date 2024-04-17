@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a as o}from"./app.790a5fc3.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/roles.md","lastUpdated":1713338626000}'),a={name:"guide/roles.md"},r=o("p",null,"#Roles",-1),n=[r];function c(d,l,_,i,p,m){return s(),t("div",null,n)}const h=e(a,[["render",c]]);export{f as __pageData,h as default};
