@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.790a5fc3.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/checksim.md","lastUpdated":1665715144000}'),c={name:"guide/checksim.md"};function s(r,o,n,i,d,p){return a(),t("div")}const f=e(c,[["render",s]]);export{_ as __pageData,f as default};
